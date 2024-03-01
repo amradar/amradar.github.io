@@ -1,0 +1,20 @@
+{
+  "arrowParens": "always",
+  "bracketSpacing": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "quoteProps": "preserve",
+  "importOrder": [
+    "^react(.*)$",
+    "^next(.*)$",
+    "^(?!(@lib|@app|@tasks|.\\/|..\\/)).*",
+    "^@lib\\/(.*)$",
+    "^@app\\/(.*)$",
+    "^@tasks\\/(.*)$",
+    "^(?!\\.).*",
+    "^[.\\/].*(?<!\\.scss)$",
+    "^[..\\/]"
+  ],
+  "importOrderSeparation": false
+}
