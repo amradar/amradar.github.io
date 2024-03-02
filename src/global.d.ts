@@ -3,3 +3,7 @@ declare module '*.module.scss' {
 
   export default content;
 }
+
+declare module '*.wav';
+
+declare module 'use-sound';
