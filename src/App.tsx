@@ -13,19 +13,19 @@ import wanyawanya from './wanya/wanyawanya.wav';
 import wanywanwaywanwywnawanywa from './wanya/wanywanwaywanwywnawanywa.wav';
 import {useCallback, useEffect, useMemo, useState} from 'react';
 import bandees_0_0 from './bandees/bandees_0_0.png';
-import bandees_0_1 from './bandees/bandees_0_1.png';
+// import bandees_0_1 from './bandees/bandees_0_1.png';
 import bandees_0_2 from './bandees/bandees_0_2.png';
 import bandees_0_3 from './bandees/bandees_0_3.png';
 import bandees_0_4 from './bandees/bandees_0_4.png';
-import bandees_0_5 from './bandees/bandees_0_5.png';
-import bandees_0_6 from './bandees/bandees_0_6.png';
-import bandees_1_0 from './bandees/bandees_1_0.png';
+// import bandees_0_5 from './bandees/bandees_0_5.png';
+// import bandees_0_6 from './bandees/bandees_0_6.png';
+// import bandees_1_0 from './bandees/bandees_1_0.png';
 import bandees_1_1 from './bandees/bandees_1_1.png';
 import bandees_1_2 from './bandees/bandees_1_2.png';
 import bandees_1_3 from './bandees/bandees_1_3.png';
 import bandees_1_4 from './bandees/bandees_1_4.png';
 import bandees_1_5 from './bandees/bandees_1_5.png';
-import bandees_1_6 from './bandees/bandees_1_6.png';
+// import bandees_1_6 from './bandees/bandees_1_6.png';
 import bandeeswing from './bandees/bandeeswing.gif';
 
 function App() {
